@@ -1,2 +1,2 @@
 print("Hello World")
-print("primeiro programa")
+print(2 + 2)
