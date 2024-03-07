@@ -40,3 +40,9 @@ for numero in list:
     if numero %2 == 0:
         pares.append(numero)
 print(pares)
+
+numeros = [numero for numero in list if numero %2 == 0]
+print(numeros)
+
+numeros2 = [quadrado ** 2 for quadrado in list]
+print(numeros2)
